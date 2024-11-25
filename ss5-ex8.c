@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &num2);
 
     if (num1 <= 0 || num2 <= 0) {
-        printf("Vui long nhap cac so nguyen duong.\n");
+        printf("Nhap cac so nguyen duong.\n");
         return ;
     }
 
